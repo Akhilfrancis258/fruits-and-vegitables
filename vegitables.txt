@@ -1,3 +1,7 @@
 1.
 Tomato
 40kg
+
+2.
+carrot
+70kg
